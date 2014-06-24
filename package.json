@@ -1,0 +1,27 @@
+{
+	"name": "pubkey-login",
+	"version": "0.1.0",
+	"description": "Public Key Login middleware for Express/Connect",
+	"main": "pubkey-login.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/bergos/pubkey-login.git"
+	},
+	"keywords": [
+		"WebID",
+		"Pubkey",
+		"Login"
+	],
+	"author": "Thomas Bergwinkl",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bergos/pubkey-login/issues"
+	},
+	"homepage": "https://github.com/bergos/pubkey-login",
+	"dependencies": {
+	},
+	"readmeFilename": "README.md"
+}
